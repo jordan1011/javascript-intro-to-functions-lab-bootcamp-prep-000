@@ -2,5 +2,5 @@ function shout(string){
   return string.toUpperCase()
 }
 function wisper(string){
-  return
+  return string.toLowerCase()
 }
